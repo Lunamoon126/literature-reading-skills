@@ -1,0 +1,6 @@
+SYNTHETIC TEST DATA — toy workflow only, not a biological experiment.
+Title: Fictional token-count demonstration
+Methods: Read the UTF-8 toy-input.txt file. Split on whitespace; count tokens exactly equal to A (case-sensitive).
+Methods: Record the count as a unitless integer. No random sampling is used.
+Limitations: This fragment supplies no software version, hardware or wet-lab parameters.
+Interpretation: Token counts have no biological meaning and establish no protein interaction.

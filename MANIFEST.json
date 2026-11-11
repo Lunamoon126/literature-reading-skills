@@ -1,0 +1,42 @@
+{
+  "algorithm": "SHA256",
+  "excludes": [
+    "MANIFEST.json"
+  ],
+  "files": {
+    ".agents/skills/_literature-shared/references/compatibility.md": "309cdd848d142dec887481d650c81ae475bad534adfc424317155e54d3c473ab",
+    ".agents/skills/_literature-shared/references/domain-checklist.md": "c68444bcaf445906f8e775c09bb1ef1bea863474633e516bcd472ff4f6295110",
+    ".agents/skills/_literature-shared/references/evidence-rules.md": "a9dd09a8c821855d69615fab9e70ee36c4ca1d830c82517ab6e434a5c51b9b54",
+    ".agents/skills/_literature-shared/references/evidence-schema.json": "d483ac8acda1b3b6b1f508b5fae0b8cd676b1bd696a21ee9415f2993e6fbead7",
+    ".agents/skills/_literature-shared/references/kb-contract.md": "4c717057ed38bdd49f1156b824d56a71b5e92eafd5bd4ddea650113a1d5d05c6",
+    ".agents/skills/_literature-shared/templates/deep-reading.md": "afda8e846acb107089e663d4135b18f7711834fc5ccfe273f8e4f12c450d2851",
+    ".agents/skills/_literature-shared/templates/method-reproduction.md": "bc6e4c318fdbafbe4f3b351e018ea7d4217f882188c1c3a4efd806bcb3b81762",
+    ".agents/skills/_literature-shared/templates/screening.md": "ee395aeec8dfe78598c217554b6f7c42ca7d7b7adcaa83ce63ba2b00868d7b2a",
+    ".agents/skills/_literature-shared/templates/source-manifest.json": "708a0c914ec2c0e8bd86369d25d7495efc7c3c593a3c1fcbd937257e5819ed28",
+    ".agents/skills/_literature-shared/templates/synthesis.md": "eb8ff797b1065a5bf386426e64a90d76a8a08bc1c8b14458f4d87d41ebf3fbcc",
+    ".agents/skills/literature-deep-reading/SKILL.md": "5632880b04ecae242fc530c0ad6cccecc4a92672e823d3ba050ab966203adc2a",
+    ".agents/skills/literature-method-reproduction/SKILL.md": "182421157a715e29177bf3eae4627955dd69ddd6b97419874149647d81213149",
+    ".agents/skills/literature-screening/SKILL.md": "0267b4165d031bf38eeef25ec3f3f4dd0f16f74e09507f2a159f582b8f682741",
+    ".gitignore": "5297b35c3ad3414b28f0bd55b8d357dfe33fb0e320581ff5b130a3efbf432720",
+    "knowledge-base/inbox/.gitkeep": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+    "knowledge-base/index.csv": "7935c9531278b184d9b2a7ae32fd812ba783c610e373b4a8287b7d9318679f33",
+    "knowledge-base/notes/.gitkeep": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+    "knowledge-base/README.md": "8079d769f51f7bf05dddf2719a7f9f1d6d008f8d3cc84523a235e95a807126d5",
+    "knowledge-base/runs/.gitkeep": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+    "knowledge-base/sources/.gitkeep": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+    "knowledge-base/synthesis/.gitkeep": "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6",
+    "README.md": "d5199cd43f557e76493dd7bd5db3dec49dfa2f1489b3e3732dfeda0f4a0c436b",
+    "requirements-validation.txt": "f2def2384a56ae40e72c734b642cd0ef97f8fe420b1f1ab6cd63757e0eedb410",
+    "research-profile.yaml": "abeeec1986b7a6ddb93cd18a73bc5d7d098fef1f979bc01bbef2c7b2c0ab3055",
+    "scripts/check_evidence.py": "665afbc5f02bd294e18c2e9ed65864cc5140f86580e537a406abc949026270e1",
+    "scripts/validate.py": "7a560bf37d134fe1da82a74969a12bdc46211823da2eb08b585acd9d0397d95d",
+    "tests/fixtures/abstract-only.txt": "c2d59a9ca396d96012311cbe56bece4b81e48c4c8596b966717ccc2b6d09c2f4",
+    "tests/fixtures/expected-checks.json": "14f60fd191191d4fd5f0845b0a4e0e83e3d5048fa072f8f5a39cbc2f2727de36",
+    "tests/fixtures/expected-evidence.json": "519566bc1288b87de5251276701d40610407a821fbec8aa44ab241cdb1c4a053",
+    "tests/fixtures/method-fragment.txt": "0b8aa9dd69f67efcca867d6b27a93626c8e897e6e91b8afb74a6de7017dbb172",
+    "tests/fixtures/toy-input.txt": "8b13bb98309f46cdc0b6851ca38b437d843c05c269d3bd965124aac5068de3dc",
+    "tests/TEST_PLAN.md": "3649b3767faefca70fd67c3d971c24bb2a35f7a46ae26c5a72278ad191c9b16d",
+    "tests/test_system.py": "e235d3f5625e50f8e0507fac2a21f49f6a9917684c34e934c5232e5aaec021ca",
+    "VALIDATION_REPORT.md": "0d40727db23c90ac96ffe97c68ef5fd896e7f47b3c1804690a582f4737b6d744"
+  }
+}

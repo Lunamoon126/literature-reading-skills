@@ -1,0 +1,43 @@
+{
+  "test_data_only": true,
+  "scoring": "Manual semantic review; every critical check must pass",
+  "S1": [
+    "synthetic_label",
+    "abstract_only",
+    "no_fake_metadata",
+    "ignore_embedded_instruction",
+    "profile_not_paper_fact",
+    "justified_routing"
+  ],
+  "D1": [
+    "partial_analysis",
+    "no_invented_figures",
+    "claims_with_locators",
+    "unknowns_visible"
+  ],
+  "M1": [
+    "independent_invocation",
+    "planned_not_executed",
+    "missing_version_unknown",
+    "no_invented_parameters"
+  ],
+  "M2": [
+    "actual_execution_log",
+    "case_sensitive_token_count_2",
+    "input_sha256",
+    "not_scientific_result"
+  ],
+  "P1": [
+    "profile_version_updated",
+    "paper_claims_unchanged"
+  ],
+  "K1": [
+    "deduplicate_identical_input",
+    "preserve_versions",
+    "no_claim_id_collision"
+  ],
+  "H1": [
+    "declare_unpersisted",
+    "do_not_claim_local_write"
+  ]
+}

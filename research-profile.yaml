@@ -1,0 +1,23 @@
+profile_version: "1.0"
+updated: "2026-11-11"
+status: "Editable user-stated research interests; not paper evidence"
+language: "zh-CN with original English terms"
+context:
+  organism: "Schizosaccharomyces pombe (S. pombe)"
+  theme: "Killer Meiotic Drive"
+  identifiers: ["Tdk1", "Tdk210", "Tdk203", "Tdk11"]
+  identifier_caution: "User-supplied labels; aliases, loci, species and functions require source verification"
+  interests: ["protein evolution", "protein interactions", "bioinformatics", "TurboID", "proximity labeling", "AI4BIO"]
+priority_questions:
+  - "How do sequence and domain differences relate to testable functional hypotheses?"
+  - "Which evidence distinguishes proximity from direct interaction and functional dependence?"
+  - "Which data and controls support meiotic-drive mechanisms?"
+  - "Can computational and AI predictions be independently validated?"
+screening:
+  relevance_axes: ["organism or mechanism", "protein evolution or interactions", "transferable methods", "AI4BIO relevance"]
+  decisions: ["deep-read", "method-focus", "background", "defer", "insufficient-information"]
+  note: "Explain each decision; no keyword-only exclusion or mandatory numeric cutoff"
+constraints:
+  default_source_scope: "Provided files only; ask before expanding scope if needed"
+  reproduction_budget: "Unspecified; propose alternatives and label resource estimates"
+  output_language: "Chinese unless user requests otherwise"

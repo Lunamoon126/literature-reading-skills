@@ -1,0 +1,45 @@
+{
+  "paper_id": "SYNTHETIC-ABSTRACT-001",
+  "profile_version": "1.0",
+  "sources": [
+    {
+      "source_id": "S1",
+      "path": "abstract-only.txt",
+      "availability": "provided",
+      "version": "synthetic-fixture-v1"
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "C1",
+      "kind": "reported",
+      "text": "SYNTHETIC: the supplied abstract describes a toy proximity-labeling workflow for fictional BAIT_A.",
+      "evidence": [
+        {
+          "source_id": "S1",
+          "locator": "L4"
+        }
+      ],
+      "limitations": "Synthetic abstract only; no real scientific finding."
+    },
+    {
+      "claim_id": "C2",
+      "kind": "unknown",
+      "text": "Whether any direct protein binding exists is not established by these materials.",
+      "evidence": [],
+      "limitations": "Synthetic data; full text, figures, sequences and experiments are unavailable."
+    },
+    {
+      "claim_id": "C3",
+      "kind": "inference",
+      "text": "SYNTHETIC: transferable-method relevance may be considered against the editable proximity-labeling interest.",
+      "evidence": [
+        {
+          "source_id": "S1",
+          "locator": "L4-L6"
+        }
+      ],
+      "limitations": "Profile-based interpretation only; not evidence about S. pombe or Tdk."
+    }
+  ]
+}

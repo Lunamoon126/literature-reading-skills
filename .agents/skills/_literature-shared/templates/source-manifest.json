@@ -1,0 +1,15 @@
+{
+  "paper_id": "LOCAL-ID",
+  "identifier": null,
+  "sources": [
+    {
+      "source_id": "S1",
+      "path": "knowledge-base/sources/LOCAL-ID/original.pdf",
+      "version": "unknown",
+      "sha256": "REPLACE_WITH_ACTUAL_SHA256",
+      "acquisition": "user-provided",
+      "coverage": "Record readable text, figures, OCR limits and missing supplements"
+    }
+  ],
+  "note": "Template only; replace values with verified metadata. Do not copy into evidence as scientific facts."
+}
